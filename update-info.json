@@ -1,7 +1,7 @@
 {
     "name" : "PayToday for WooCommerce",
- 	"version" : "7.3.5",
-    "download_url": "https://github.com/helloadaire/PayTodayTestRelease/releases/download/v7.3.5/paytoday-woocommerce.zip",
+ 	"version" : "7.3.6",
+    "download_url": "https://github.com/helloadaire/PayTodayTestRelease/releases/download/v7.3.6/paytoday-woocommerce.zip",
     "sections": {
         "description": "Official PayToday payment gateway for WooCommerce using JavaScript SDK. Seamlessly integrate PayToday payments into your WooCommerce store with advanced features like tokenization, webhook handling, and WooCommerce Blocks support.",
         "changelog": "<h4>7.3.4</h4><ul><li>Added automatic update checking system using Plugin Update Checker library</li><li>Improved compliance with WordPress plugin standards</li><li>Enhanced error handling and logging</li><li>Added proper update URI in plugin header</li><li>Fixed version consistency across plugin files</li></ul><h4>7.3.0</h4><ul><li>Initial release with PayToday Web SDK integration</li><li>Supports PayToday payments for WooCommerce</li><li>Added WooCommerce Blocks support</li><li>Implemented webhook handling</li><li>Added tokenization support</li></ul>",
