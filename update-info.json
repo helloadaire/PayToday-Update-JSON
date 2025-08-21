@@ -1,0 +1,15 @@
+{
+    "name" : "PayToday for WooCommerce",
+ 	"version" : "7.3.4",
+    "download_url": "https://github.com/helloadaire/PayTodayTestRelease/archive/refs/tags/v7.3.4.zip",
+    "sections": {
+        "description": "Official PayToday payment gateway for WooCommerce using JavaScript SDK. Seamlessly integrate PayToday payments into your WooCommerce store with advanced features like tokenization, webhook handling, and WooCommerce Blocks support.",
+        "changelog": "<h4>7.3.4</h4><ul><li>Added automatic update checking system using Plugin Update Checker library</li><li>Improved compliance with WordPress plugin standards</li><li>Enhanced error handling and logging</li><li>Added proper update URI in plugin header</li><li>Fixed version consistency across plugin files</li></ul><h4>7.3.0</h4><ul><li>Initial release with PayToday Web SDK integration</li><li>Supports PayToday payments for WooCommerce</li><li>Added WooCommerce Blocks support</li><li>Implemented webhook handling</li><li>Added tokenization support</li></ul>",
+        "installation": "<ol><li>Upload the plugin files to the <code>/wp-content/plugins/paytoday-woocommerce</code> directory</li><li>Activate the plugin through the 'Plugins' menu in WordPress</li><li>Go to WooCommerce > Settings > Payments and enable the PayToday payment gateway</li><li>Configure your Shop Key, Shop Handle, and Private Key</li></ol>",
+        "screenshots": "<ol><li>PayToday payment gateway settings in WooCommerce</li><li>WooCommerce checkout page with PayToday as a payment method</li><li>Successful payment redirect after processing</li></ol>"
+    },
+    "banners": {
+        "high": "https://api.paytoday.com/plugin-banners/paytoday-woocommerce-banner-772x250.png",
+        "low": "https://api.paytoday.com/plugin-banners/paytoday-woocommerce-banner-154x500.png"
+    }
+}
