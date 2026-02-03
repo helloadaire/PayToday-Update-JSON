@@ -1,10 +1,10 @@
 {
     "name" : "PayToday for WooCommerce",
- 	"version" : "1.1.1",
-    "download_url": "https://github.com/helloadaire/PayTodayWooReleases/releases/download/v1.1.1/paytoday_woo_v1.1.1.zip",
+ 	"version" : "1.1.2",
+    "download_url": "https://github.com/helloadaire/PayTodayWooReleases/releases/download/v1.1.2/paytoday_woo_v1.1.2.zip",
     "sections": {
         "description": "Official PayToday payment gateway for WooCommerce using JavaScript SDK. Seamlessly integrate PayToday payments into your WooCommerce store with advanced features like tokenization, webhook handling, and WooCommerce Blocks support.",
-        "changelog": "<h4>7.3.4</h4><ul><li>Added automatic update checking system using Plugin Update Checker library</li><li>Improved compliance with WordPress plugin standards</li><li>Enhanced error handling and logging</li><li>Added proper update URI in plugin header</li><li>Fixed version consistency across plugin files</li></ul><h4>7.3.0</h4><ul><li>Initial release with PayToday Web SDK integration</li><li>Supports PayToday payments for WooCommerce</li><li>Added WooCommerce Blocks support</li><li>Implemented webhook handling</li><li>Added tokenization support</li></ul>",
+        "changelog": "<h4>7.3.4</h4><ul><li>Changed default title and description for the payment option</li>",
         "installation": "<ol><li>Upload the plugin files to the <code>/wp-content/plugins/paytoday-woocommerce</code> directory</li><li>Activate the plugin through the 'Plugins' menu in WordPress</li><li>Go to WooCommerce > Settings > Payments and enable the PayToday payment gateway</li><li>Configure your Shop Key, Shop Handle, and Private Key</li></ol>",
         "screenshots": "<ol><li>PayToday payment gateway settings in WooCommerce</li><li>WooCommerce checkout page with PayToday as a payment method</li><li>Successful payment redirect after processing</li></ol>"
     },
